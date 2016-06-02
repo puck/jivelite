@@ -1,0 +1,4 @@
+bin/jivelite    /usr/bin
+share/jive/jive /usr/share/jive
+share/lua/5.1/loop/ /usr/share/jive/
+share/jive/applets/ /usr/share/jive
