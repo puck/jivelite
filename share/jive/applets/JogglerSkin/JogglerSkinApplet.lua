@@ -836,14 +836,14 @@ function skin(self, s)
 	s.text_block_black = {
 		bgImg = blackBackground,
 		position = LAYOUT_NORTH,
-		h = 100,
+		h = 300,
 		order = { 'text' },
 		text = {
 			w = WH_FILL,
-			h = 100,
+			h = 300,
                         padding = { 10, 160, 10, 0 },
                         align = "center",
-                        font = _font(100),
+                        font = _font(120),
                         fg = TEXT_COLOR,
                         sh = TEXT_SH_COLOR,
                 },
@@ -1582,8 +1582,8 @@ function skin(self, s)
 	s.input = _uses(s.window)
 	s.input.title = _uses(s.title, {
 		-- remove 3px from the height and 3px from the bottom padding
-		h = 44,
-		padding = { 0, 5, 0, 2 },
+		-- h = 44,
+		-- padding = { 0, 5, 0, 2 },
 		bgImg = inputTitleBox,
 	})
 
