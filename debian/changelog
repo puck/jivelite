@@ -1,5 +1,11 @@
+jivelite (0.2-1) unstable; urgency=medium
+
+  * New upstream version
+
+ -- Andrew Ruthven <andrew@etc.gen.nz>  Sun, 03 Sep 2017 00:32:29 +1200
+
 jivelite (0.1-1) unstable; urgency=low
 
-  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+  * Initial release
 
- -- unknown <pi@raspberrypi>  Sat, 04 Jun 2016 21:06:50 +0200
+ -- Andrew Ruthven <andrew@etc.gen.nz>  Sat, 04 Jun 2016 21:06:50 +0200
