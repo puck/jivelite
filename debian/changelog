@@ -1,6 +1,7 @@
 jivelite (0.2-1) unstable; urgency=medium
 
   * New upstream version
+  * Set myself as maintainer, set links to VCS
 
  -- Andrew Ruthven <andrew@etc.gen.nz>  Sun, 03 Sep 2017 00:32:29 +1200
 
